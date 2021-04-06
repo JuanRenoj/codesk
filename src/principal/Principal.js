@@ -172,11 +172,14 @@ setoptMenu(opcion)
          <FaPhoneAlt size={50} color={colorIcon} />
          </a>
           <p>
-            3344-5566 <br/> 4433-9080
+            3344-5566 <br/> 36211663
           </p>
           </div>
           <div className="seccCon">
             <a href="https://api.whatsapp.com/send?phone=+50236211663">
+         <FaWhatsapp size={50} color={colorIcon}/>
+         </a>
+         <a href="https://api.whatsapp.com/send?phone=+50236211663">
          <FaWhatsapp size={50} color={colorIcon}/>
          </a>
           </div>
