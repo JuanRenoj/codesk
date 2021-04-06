@@ -163,7 +163,7 @@ setoptMenu(opcion)
       </div>
       <div className="Contactos" id="Contactos"  onMouseEnter={()=>active(4)}>
      <p className="SeccTitle">Contactos</p>
-          <p className="SeccDesc">Contactanos en cualquiera de estos medios:</p>
+          <p className="SeccDesc">Contactanos por:</p>
          
         <div className="containCon">
 
@@ -172,14 +172,14 @@ setoptMenu(opcion)
          <FaPhoneAlt size={50} color={colorIcon} />
          </a>
           <p>
-            3344-5566 <br/> 36211663
+            3072-5664- <br/> 36211663
           </p>
           </div>
           <div className="seccCon">
             <a href="https://api.whatsapp.com/send?phone=+50236211663">
          <FaWhatsapp size={50} color={colorIcon}/>
          </a>
-         <a href="https://api.whatsapp.com/send?phone=+50236211663">
+         <a href="https://api.whatsapp.com/send?phone=+5023072-5664">
          <FaWhatsapp size={50} color={colorIcon}/>
          </a>
           </div>
