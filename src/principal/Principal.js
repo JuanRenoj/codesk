@@ -172,7 +172,7 @@ setoptMenu(opcion)
          <FaPhoneAlt size={50} color={colorIcon} />
          </a>
           <p>
-            3072-5664- <br/> 36211663
+            3072-5664- <br/> 3621-1663
           </p>
           </div>
           <div className="seccCon">
